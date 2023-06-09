@@ -1,4 +1,4 @@
-# ERAV1S6
+# Building a light model with high accuracy on MNIST data
 
 The objective is to reach 99.4% Validation accuracy on MNIST dataset with less than 20k parameters & less than 20 Epochs
 
